@@ -1,0 +1,31 @@
+<accounts>
+<account type="StudentBankAccount">
+<name>Katia Barak</name>
+<id>1234567</id>
+<phone>0523-555444</phone>
+<email>katiab@sela.co.il</email>
+<college>Sela</college>
+</account>
+<account type="BankAccount">
+<name>Tal Cohen</name>
+<id>22334455</id>
+<phone>0546-222333</phone>
+<email>talc@gamil.com</email>
+</account>
+<account name='StudentBankAccount'>
+<name>tamar</name>
+<id>5</id>
+<phone>054-6837579</phone>
+<email>tamar.samara@gmail.com</email>
+<balance>500</balance>
+<college>Sela college</college>
+</account>
+</accounts><account name='StudentBankAccount'>
+<name>tamar</name>
+<id>5</id>
+<phone>054-6837579</phone>
+<email>tamar.samara@gmail.com</email>
+<balance>500</balance>
+<college>Sela college</college>
+</account>
+</accounts>
