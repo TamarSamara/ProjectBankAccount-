@@ -5,18 +5,6 @@ import studentbankaccount
 import xml.etree.ElementTree as ET
 
 
-# def load_and_parse_init_data(elements):
-#     tree = ET.parse(elements)
-#     for child in tree.getroot():
-#         bank_account = child.get('type')
-#         accchild = child.find('account')
-#         name = accchild.find('name').text
-#         id = accchild.find('id').text
-#         phone = accchild.find('phone').text
-#         email = accchild.find('email').text
-#         print(name + " tamaaaarrrrrrrr" + email)
-
-
 def add_new_account(account):
     f = open("my_bank_account.xml", "r")
     s = f.read()

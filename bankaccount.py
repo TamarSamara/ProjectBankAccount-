@@ -9,8 +9,8 @@ class BankAccount(personalinfo.PersonalInfo):
     def __str__(self) -> str:
         return f'{super().__str__()} Balance is:{self.balance}'
 
-    def Withdraw(self, money: float):
-        self.balance -= money
+    def Withdraw(self, amount: float):
+        self.balance -= amount
 
-    def Deposit(self, money: float):
-        self.balance += money
+    def Deposit(self, amount: float):
+        self.balance += amount
