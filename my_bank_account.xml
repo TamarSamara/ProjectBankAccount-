@@ -12,6 +12,115 @@
 <phone>0546-222333</phone>
 <email>talc@gamil.com</email>
 </account>
+<account name="StudentBankAccount">
+<name>tamar</name>
+<id>5</id>
+<phone>054-6837579</phone>
+<email>tamar.samara@gmail.com</email>
+<balance>500</balance>
+<college>Sela college</college>
+</account>
+<account name="StudentBankAccount">
+<name>kareen</name>
+<id>6</id>
+<phone>052-6524578</phone>
+<email>kareen@gmail.com</email>
+<balance>700</balance>
+<college>itsafe college</college>
+</account>
+<account name="StudentBankAccount">
+<name>tamar</name>
+<id>5</id>
+<phone>054-6837579</phone>
+<email>tamar.samara@gmail.com</email>
+<balance>500</balance>
+<college>Sela college</college>
+</account>
+<account name="StudentBankAccount">
+<name>kareen</name>
+<id>6</id>
+<phone>052-6524578</phone>
+<email>kareen@gmail.com</email>
+<balance>700</balance>
+<college>itsafe college</college>
+</account>
+<account name="BusinessBankAccount">
+<name>rola</name>
+<id>7</id>
+<phone>054-2581325</phone>
+<email>rula@gmail.com</email>
+<balance>800</balance>
+<business_info>Rola is the businesswoman</business_info>
+</account>
+<account name="BankAccount">
+<name>adham</name>
+<id>8</id>
+<phone>054-1282555</phone>
+<email>adham@gmail.com</email>
+<balance>1000</balance>
+</account>
+<account name="StudentBankAccount">
+<name>tamar</name>
+<id>1</id>
+<phone>054-6837579</phone>
+<email>tamar.samara@gmail.com</email>
+<balance>500</balance>
+<college>Sela college</college>
+</account>
+<account name="StudentBankAccount">
+<name>kareen</name>
+<id>2</id>
+<phone>052-6524578</phone>
+<email>kareen@gmail.com</email>
+<balance>700</balance>
+<college>itsafe college</college>
+</account>
+<account name="BusinessBankAccount">
+<name>rola</name>
+<id>3</id>
+<phone>054-2581325</phone>
+<email>rula@gmail.com</email>
+<balance>800</balance>
+<business_info>Rola is the businesswoman</business_info>
+</account>
+<account name="BankAccount">
+<name>adham</name>
+<id>4</id>
+<phone>054-1282555</phone>
+<email>adham@gmail.com</email>
+<balance>1000</balance>
+</account>
+<account name='StudentBankAccount'>
+<name>tamar</name>
+<id>1</id>
+<phone>054-6837579</phone>
+<email>tamar.samara@gmail.com</email>
+<balance>500</balance>
+<college>Sela college</college>
+</account>
+<account name='StudentBankAccount'>
+<name>kareen</name>
+<id>2</id>
+<phone>052-6524578</phone>
+<email>kareen@gmail.com</email>
+<balance>700</balance>
+<college>itsafe college</college>
+</account>
+<account name='BusinessBankAccount'>
+<name>rola</name>
+<id>3</id>
+<phone>054-2581325</phone>
+<email>rula@gmail.com</email>
+<balance>800</balance>
+<business_info>Rola is the businesswoman</business_info>
+</account>
+<account name='BankAccount'>
+<name>adham</name>
+<id>4</id>
+<phone>054-1282555</phone>
+<email>adham@gmail.com</email>
+<balance>1000</balance>
+</account>
 <account name='StudentBankAccount'>
 <name>tamar</name>
 <id>5</id>
@@ -20,12 +129,27 @@
 <balance>500</balance>
 <college>Sela college</college>
 </account>
-</accounts><account name='StudentBankAccount'>
-<name>tamar</name>
-<id>5</id>
-<phone>054-6837579</phone>
-<email>tamar.samara@gmail.com</email>
-<balance>500</balance>
-<college>Sela college</college>
+<account name='StudentBankAccount'>
+<name>kareen</name>
+<id>6</id>
+<phone>052-6524578</phone>
+<email>kareen@gmail.com</email>
+<balance>700</balance>
+<college>itsafe college</college>
+</account>
+<account name='BusinessBankAccount'>
+<name>rola</name>
+<id>7</id>
+<phone>054-2581325</phone>
+<email>rula@gmail.com</email>
+<balance>800</balance>
+<business_info>Rola is the businesswoman</business_info>
+</account>
+<account name='BankAccount'>
+<name>adham</name>
+<id>88</id>
+<phone>054-1282555</phone>
+<email>adham@gmail.com</email>
+<balance>1000</balance>
 </account>
 </accounts>
