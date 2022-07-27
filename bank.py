@@ -33,12 +33,15 @@ def removeAccountByAtt(root, val, attr):
     return root
 
 
-def Withdraw_by_user_id(root, val, attr, withdrawnum):
+def Withdraw_by_user_id(root, withdrawnum, val, attr ):
     for account in root.findall('account'):
         currAtt = account.find(attr).text
         if currAtt == val:
-            print("removing account...")
-            account.text = withdrawnum
+            print("tm")
+            print(account.find('balance').text)
+            account.find('balance').text = withdrawnum
+            print(account.find('balance').text)
+
     return root
 
 
@@ -133,7 +136,7 @@ def main():
     tree, root = getTreeAndRoot('my_bank_account.xml')
     id_num = input("Enter the ID to change the balance: ")
     withdrawnum = int(input("Enter the amount to change the balance: "))
-    Withdraw_by_user_id(root, withdrawnum, val=id_num, attr='balance')
+    Withdraw_by_user_id(root, withdrawnum, val=id_num, attr='id')
 
 
 if __name__ == "__main__":
